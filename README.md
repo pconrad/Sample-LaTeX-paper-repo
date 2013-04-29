@@ -8,5 +8,5 @@ A sample repository for starting a LaTeX paper, along with instructions for how 
 
 
 # References
-* Click to see a [List of References](REFERENCES.md)
-* To update this list from the BibTeX entries in paper.bib, run the Python script bibtomd.py
+* Click to see a [List of References in file REFERENCES.md](REFERENCES.md) 
+* To update this list from the BibTeX entries in paper.bib, run the Python script bib2md.py
