@@ -6,6 +6,9 @@ A sample repository for starting a LaTeX paper, along with instructions for how 
 #What you need to use this
 * [Instructions for Mac](README_MAC.md)
 
+#How to use thsi
+* [Instructions for starting a new paper repo from this template](HOWTO_NEW_PAPER_REPO.md)
+
 
 # References
 * Click to see a [List of References in file REFERENCES.md](REFERENCES.md) 
